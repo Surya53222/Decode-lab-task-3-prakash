@@ -142,6 +142,6 @@ This project successfully demonstrates database integration within a full-stack 
 
 Developed By
 
-surya prakash
+Surya prakash
 
 Full Stack Development Internship
